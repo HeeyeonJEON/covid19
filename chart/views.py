@@ -103,6 +103,7 @@ def make_chart(my_data):
         },
         'title': {'text': '인구 대비 COVID-19 확진자 비율'},
         'subtitle': {'text': 'Source: Johns Hopkins University Center for Systems Science and Engineering'},
+
         'xAxis': {'type': 'datetime',
                   # 'dateTimeLabelFormats': {'month': '%b \'%y'}
         },
