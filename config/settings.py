@@ -26,7 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'chart',
-    'covid19',
+    'covid19'
 ]
 
 MIDDLEWARE = [
